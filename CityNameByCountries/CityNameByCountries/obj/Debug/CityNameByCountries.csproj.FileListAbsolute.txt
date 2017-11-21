@@ -1,0 +1,9 @@
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\bin\Debug\CityNameByCountries.exe.config
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\bin\Debug\CityNameByCountries.exe
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\bin\Debug\CityNameByCountries.pdb
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\obj\Debug\CityNameByCountries.Form1.resources
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\obj\Debug\CityNameByCountries.Properties.Resources.resources
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\obj\Debug\CityNameByCountries.csproj.GenerateResource.Cache
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\obj\Debug\CityNameByCountries.csproj.CoreCompileInputs.cache
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\obj\Debug\CityNameByCountries.exe
+c:\users\konda\documents\visual studio 2017\Projects\CityNameByCountries\CityNameByCountries\obj\Debug\CityNameByCountries.pdb
